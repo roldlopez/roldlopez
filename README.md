@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roldlopez
-- 👀 I’m interested in Front-End, CRO and WPO
-- 🌱 I’m currently learning WPO with Chrome
+- 👀 I’m interested in Front-End, UX and Analitcs
+- 🌱 I’m currently learning React
 - 📫 How to reach me, rza.lopez.s@gmail.com
 
 <!---
