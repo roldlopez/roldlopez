@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @roldlopez
-- 👀 I’m interested in Front-End, UX and Analitcs
+- 👋 Hi, I’m Ronald!
+- 👀 I’m interested in Front-End, UX and Analytics
 - 🌱 I’m currently learning React
 - 📫 How to reach me, rza.lopez.s@gmail.com
 
